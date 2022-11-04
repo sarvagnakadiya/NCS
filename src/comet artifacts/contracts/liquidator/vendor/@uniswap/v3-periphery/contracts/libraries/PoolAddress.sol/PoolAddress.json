@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "PoolAddress",
+  "sourceName": "contracts/liquidator/vendor/@uniswap/v3-periphery/contracts/libraries/PoolAddress.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603f9081601d823930815050f35b600080fdfe6080604052600080fdfea26469706673582212201702c4ad10daf09e408790f2a0ee8d0f8748c071247f2f94cef02899e57ce49b64736f6c634300080f0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212201702c4ad10daf09e408790f2a0ee8d0f8748c071247f2f94cef02899e57ce49b64736f6c634300080f0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

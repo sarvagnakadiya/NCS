@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "TransferHelper",
+  "sourceName": "contracts/liquidator/vendor/@uniswap/v3-periphery/contracts/libraries/TransferHelper.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603f9081601d823930815050f35b600080fdfe6080604052600080fdfea2646970667358221220a6c1d7a83e3697435c732a7de5ff07429cae04dfe9a28071baa98546037a22c464736f6c634300080f0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a6c1d7a83e3697435c732a7de5ff07429cae04dfe9a28071baa98546037a22c464736f6c634300080f0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

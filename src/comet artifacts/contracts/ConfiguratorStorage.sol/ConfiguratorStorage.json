@@ -1,0 +1,56 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ConfiguratorStorage",
+  "sourceName": "contracts/ConfiguratorStorage.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "factory",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "governor",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "version",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608080604052346100155760f8908161001b8239f35b600080fdfe6080806040526004361015601257600080fd5b600090813560e01c9081630c340a2414609b57508063395c0fda14605b576354fd4d5014603e57600080fd5b346058578060031936011260585760209054604051908152f35b80fd5b503460585760203660031901126058576001600160a01b0360043581811690819003609757826040916020945260038452205416604051908152f35b8280fd5b90503460be578160031936011260be576002546001600160a01b03168152602090f35b5080fdfea26469706673582212201423bc30519d329f8d3af4de5962f0017b7567b2070562e9c84fe4621ceb6be564736f6c634300080f0033",
+  "deployedBytecode": "0x6080806040526004361015601257600080fd5b600090813560e01c9081630c340a2414609b57508063395c0fda14605b576354fd4d5014603e57600080fd5b346058578060031936011260585760209054604051908152f35b80fd5b503460585760203660031901126058576001600160a01b0360043581811690819003609757826040916020945260038452205416604051908152f35b8280fd5b90503460be578160031936011260be576002546001600160a01b03168152602090f35b5080fdfea26469706673582212201423bc30519d329f8d3af4de5962f0017b7567b2070562e9c84fe4621ceb6be564736f6c634300080f0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

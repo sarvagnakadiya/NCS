@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "CallbackValidation",
+  "sourceName": "contracts/liquidator/vendor/@uniswap/v3-periphery/contracts/libraries/CallbackValidation.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603f9081601d823930815050f35b600080fdfe6080604052600080fdfea2646970667358221220c5eed137de5ddcfb396f2a917f3fe6c1e5cc965d8696b7a9ef6c05321294d95164736f6c634300080f0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220c5eed137de5ddcfb396f2a917f3fe6c1e5cc965d8696b7a9ef6c05321294d95164736f6c634300080f0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
